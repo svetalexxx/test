@@ -19,23 +19,39 @@ namespace HelloWorld1
 		MonoTouch.UIKit.UIButton buttonPrev { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UITextField labelTitle { get; set; }
+		MonoTouch.UIKit.UIImageView imageHW { get; set; }
+
+		[Outlet]
+		MonoTouch.UIKit.UILabel labelTitle { get; set; }
+
+		[Outlet]
+		MonoTouch.UIKit.UITextView txtDescription { get; set; }
 		
 		void ReleaseDesignerOutlets ()
 		{
-			if (buttonPrev != null) {
-				buttonPrev.Dispose ();
-				buttonPrev = null;
-			}
-
 			if (buttonNext != null) {
 				buttonNext.Dispose ();
 				buttonNext = null;
 			}
 
+			if (buttonPrev != null) {
+				buttonPrev.Dispose ();
+				buttonPrev = null;
+			}
+
 			if (labelTitle != null) {
 				labelTitle.Dispose ();
 				labelTitle = null;
+			}
+
+			if (imageHW != null) {
+				imageHW.Dispose ();
+				imageHW = null;
+			}
+
+			if (txtDescription != null) {
+				txtDescription.Dispose ();
+				txtDescription = null;
 			}
 		}
 	}
