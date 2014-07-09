@@ -2,4 +2,3 @@ C:\Users\sveta_000\Documents\GitHub\test\HelloWorld1\HelloWorld1\bin\iPhoneSimul
 C:\Users\sveta_000\Documents\GitHub\test\HelloWorld1\HelloWorld1\bin\iPhoneSimulator\Debug\HelloWorld1.pdb
 C:\Users\sveta_000\Documents\GitHub\test\HelloWorld1\HelloWorld1\obj\iPhoneSimulator\Debug\HelloWorld1.exe
 C:\Users\sveta_000\Documents\GitHub\test\HelloWorld1\HelloWorld1\obj\iPhoneSimulator\Debug\HelloWorld1.pdb
-C:\Users\sveta_000\Documents\GitHub\test\HelloWorld1\HelloWorld1\obj\iPhoneSimulator\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
