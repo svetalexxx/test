@@ -87,8 +87,6 @@
     <BundleResource Include="Resources\Default-568h%402x.png" />
   </ItemGroup>
   <ItemGroup>
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
@@ -97,5 +95,11 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />
   <ItemGroup>
     <InterfaceDefinition Include="HelloWorldViewController.xib" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cute_cat_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cute_cat_1.jpg" />
   </ItemGroup>
 </Project>
