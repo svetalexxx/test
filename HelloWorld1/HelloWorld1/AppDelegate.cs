@@ -11,14 +11,14 @@ namespace HelloWorld1
     public partial class AppDelegate : UIApplicationDelegate
     {
         UIWindow window;
-        MyViewController viewController;
+		HelloWorldViewController hwViewController;
 
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             window = new UIWindow(UIScreen.MainScreen.Bounds);
 
-            viewController = new MyViewController();
-            window.RootViewController = viewController;
+			hwViewController = new HelloWorldViewController();
+			window.RootViewController = hwViewController;
 
             window.MakeKeyAndVisible();
 
