@@ -1,0 +1,216 @@
+THelloWorld1
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1 normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000539B2A990000000000000198
+t1402677913
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000532071BD00000000000003B4
+t1394635197
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532071C2000000000000019E
+t1394635202
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000539B2A4A0000000000446820
+t1402677834
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532071C4000000000088D8C0
+t1394635204
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000532071C500000000002E6B60
+t1394635205
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532071C70000000001F1DE10
+t1394635207
+s32628240
+
+N/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m
+c0000000053BD77C10000000000000144
+t1404925889
+s324
+
+N/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o
+t1404926758
+s3064
+
+N/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1.LinkFileList
+c0000000053BD7B2600000000000001E7
+t1404926758
+s487
+
+N/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o
+t1404926758
+s51004
+
+N/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1
+t2
+s0
+
+N/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m
+c0000000053BD6D01000000000000021F
+t1404923137
+s543
+
+CBuild AST from /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m
+r0
+
+CBuild AST from /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies680631a6b26db941^3dd535a6b26db941^-361"warning: no rule to process file '/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.h' of type sourcecode.c.h for architecture i3862(21%IDEActivityLogMessage2@173"Warning: no rule to process file '/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.h' of type sourcecode.c.h for architecture i386-426619558#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@186"Warning: no rule to process file '/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.h' of type sourcecode.c.h for architecture i386-426619558#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"898B73D2-30FE-4EB6-AAEC-DD876645E4A0-
+
+CCompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426619558.217537
+e426619558.743190
+r1
+xCompileC
+xDerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o
+x/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m
+d/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m247"CompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9eb438a6b26db941^fe43bea6b26db941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m0000000000000000^4362"CompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-generated-files.hmap -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-own-target-headers.hmap -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-all-target-headers.hmap -iquote /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-project-headers.hmap -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/DerivedSources/i386 -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/DerivedSources -F/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.d --serialize-diagnostics /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.dia -c /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/AppDelegate.m -o /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o36"9F71429D-A8A4-485F-A389-372140BC04E8-
+b7F53548F-0E10-46F1-B9DD-384118EF67E5
+
+CCompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426619558.217776
+e426619558.823780
+r1
+xCompileC
+xDerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o
+x/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m
+d/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m273"CompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o HelloWorldViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc0b438a6b26db941^3fe3d2a6b26db941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m0000000000000000^4440"CompileC DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o HelloWorldViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-generated-files.hmap -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-own-target-headers.hmap -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-all-target-headers.hmap -iquote /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/HelloWorld1-project-headers.hmap -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/DerivedSources/i386 -I/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/DerivedSources -F/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.d --serialize-diagnostics /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.dia -c /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.m -o /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o36"3E20114E-2529-4B0A-8191-A45BC3E5811F-
+b7F53548F-0E10-46F1-B9DD-384118EF67E5
+
+CCompileXIB /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/HelloWorldViewController.xib
+r0
+
+CCopyPlistFile /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/Info.plist Info.plist
+r0
+
+CCpResource Default-568h@2x.png DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/Default-568h@2x.png
+r0
+
+CCpResource Default.png DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/Default.png
+r0
+
+CCpResource Default@2x.png DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/Default@2x.png
+r0
+
+CCpResource cute_cat_1.jpg DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/cute_cat_1.jpg
+r0
+
+CCpResource cute_cat_2.jpg DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/cute_cat_2.jpg
+r0
+
+CGenerateDSYMFile /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app.dSYM /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1
+r0
+
+CLd /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1 normal i386
+s426619558.824563
+e426619558.918457
+r0
+xLd
+x/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1
+xnormal
+xi386
+d/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/AppDelegate-C23204A0F8A2ECCC.o
+d/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorldViewController-8AB9C29F10E2E4BD.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+oUndefined symbols for architecture i386:
+o  "_main", referenced from:
+o      start in crt1.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection177"Link /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1107"Ld DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1 normal i3864d31d3a6b26db941^9b1feba6b26db941^-217"Undefined symbols for architecture i386:  "_main", referenced from:      start in crt1.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@25""_main", referenced from:-426619558#41#28#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@15"Start in crt1.o-426619558#69#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-426619558#91#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-426619558#137#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1898"Ld DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld1 normal i386    cd /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator -F/Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator -filelist /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework UIKit -framework MapKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Intermediates/HelloWorld1.build/MonoTouch-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1_dependency_info.dat -o /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app/HelloWorld136"DBE5A3FC-82A9-4856-8E18-3114130998AC-
+b7F53548F-0E10-46F1-B9DD-384118EF67E5
+
+CTouch /Users/tariqkhan/Desktop/Sveta_Projets/test/HelloWorld1/HelloWorld1/obj/Xcode/5/DerivedData/HelloWorld1/Build/Products/MonoTouch-iphonesimulator/HelloWorld1.app
+r0
+

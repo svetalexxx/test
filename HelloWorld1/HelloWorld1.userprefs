@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld1/HelloWorldViewController.designer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld1/HelloWorldViewController.cs">
     <Files>
       <File FileName="HelloWorld1/HelloWorldViewController.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld1/HelloWorldViewController.designer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

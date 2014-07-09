@@ -26,6 +26,8 @@ namespace HelloWorld1
 
 		[Outlet]
 		MonoTouch.UIKit.UITextView txtDescription { get; set; }
+
+
 		
 		void ReleaseDesignerOutlets ()
 		{
